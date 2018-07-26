@@ -1,3 +1,3 @@
-# rogo
+# Nugo
 
-# this is an edit.
+Nugo is a graphical interface for the introductory programming language Logo.
